@@ -1,0 +1,32 @@
+{
+    "name": "device-detectives",
+    "version": "1.0.1",
+    "description": "🚀 Uma extensão que detecta o dispositivo de usuário",
+    "main": "./src/index.js",
+    "scripts": {
+        "test": "echo \"Error: nenhum teste definido\" && exit 1"
+    },
+    "author": "FabricioFacco",
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/FabricioFacco/Device-detectives"
+    },
+    "homepage": "https://github.com/FabricioFacco/Device-detectives#readme",
+        "keywords": [
+          "device detection",
+          "device type",
+          "device identification",
+          "user agent parsing",
+          "mobile detection",
+          "tablet detection",
+          "desktop detection",
+          "browser detection",
+          "client information",
+          "user device",
+          "platform detection",
+          "user agent analysis",
+          "device classifier",
+          "device recognition",
+          "user device info"
+        ] 
+}
